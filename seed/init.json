@@ -1,0 +1,14 @@
+[
+  {
+    "name": "user",
+    "description": "default user role"
+  },
+  {
+    "name": "employee",
+    "description": "default employee role"
+  },
+  {
+    "name": "affiliate",
+    "description": "default affiliate role"
+  }
+]
